@@ -1,0 +1,13 @@
+click==8.2.1
+pydantic==2.11.7
+a2a==0.44
+a2a_sdk==0.3.3
+crewai==0.175.0
+crewai_tools==0.65.0
+mcp==1.13.1
+yfinance==0.2.66
+mcpadapt==0.1.16
+starlette==0.47.3
+sse-starlette==3.0.2
+google_adk==1.13.0
+gradio==5.43.1
